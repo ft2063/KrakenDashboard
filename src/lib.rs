@@ -1,6 +1,6 @@
 pub mod app;
 pub mod api2;
-pub mod websocket;
+
 
 
 #[cfg(feature = "hydrate")]
